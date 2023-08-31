@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+textarea.body {
+    width: 170px;
+    height: 50px;
+}
+
+.button-group {
+    display: flex;
+}
